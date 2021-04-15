@@ -5,7 +5,7 @@
 ## Opis
 Testy zostały wykonane dla witryn https://www.24mx.ie/ | https://www.24mx.pl/ w celu wykonania zadania. 
 
-## **Ważne**
+## **Ważne!!**
 Domyślnie ustawiona jest witryna https://www.24mx.ie/ aby ją zmienić należy (już na swoim urządzeniu) edytować plik `cypress.json` znajdujący się w katalogu `cypress` utworzonym wcześniej przez Ciebie.
 
 
